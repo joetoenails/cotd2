@@ -29,7 +29,7 @@ So we position the buttons from the bottom. */
 /* Custom styling for the trivia source */
 small {
     font-size: .75em;
-    color: #666;
+    color: #F6330A;
 }
 /* Prevent text selection while swiping with mouse */
 .demo-page .ui-header, .ui-title, .control .ui-btn, .trivia-btn {
